@@ -1,1 +1,1 @@
-Project and Homeworks design by ADS Keysight
+Project and Homeworks designed by ADS Keysight
