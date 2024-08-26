@@ -1,4 +1,0 @@
-INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
-DEFINE CHW3_Q1_lib CHW3_Q1_lib
-ASSIGN CHW3_Q1_lib libMode shared
-INCLUDE ../tsmc18rf_converted/lib.defs
